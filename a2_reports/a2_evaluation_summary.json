@@ -1,0 +1,27 @@
+{
+  "sota_clean_metrics": {
+    "accuracy": 0.9921875,
+    "macro_precision": 0.9916666666666667,
+    "macro_recall": 0.9922480620155039,
+    "macro_f1": 0.9918590220898486,
+    "weighted_f1": 0.9921909903201788,
+    "latency_ms": 43.02969649943407,
+    "fps": 23.239764194319896
+  },
+  "stress_test_accuracy": {
+    "Clean Baseline": 0.9921875,
+    "Low Light (0.35x)": 0.953125,
+    "Low Light + ArtAug Polish": 0.9453125,
+    "Severe Motion Blur": 0.9921875,
+    "Sensor Noise (ISO 6400)": 0.984375,
+    "Compound Stress (Dim+Blur+Noise)": 0.90625
+  },
+  "ablation_stress_accuracy": {
+    "Clean Baseline": 0.9921875,
+    "Low Light (0.35x)": 0.921875,
+    "Low Light + ArtAug Polish": 0.921875,
+    "Severe Motion Blur": 0.984375,
+    "Sensor Noise (ISO 6400)": 0.953125,
+    "Compound Stress (Dim+Blur+Noise)": 0.921875
+  }
+}

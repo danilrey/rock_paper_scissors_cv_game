@@ -1,0 +1,35 @@
+{
+  "SVM Baseline (RBF)": {
+    "Accuracy": 0.9375,
+    "Macro Precision": 0.936648103267502,
+    "Macro Recall": 0.937911038517712,
+    "Macro F1": 0.936929371231697,
+    "Weighted F1": 0.9377387152777779,
+    "Latency (ms/frame)": 2.773561477661133,
+    "FPS": 360.54726316839105,
+    "Model Size (MB)": 45.02,
+    "Parameters": "N/A (Kernel)"
+  },
+  "Custom Deep CNN": {
+    "Accuracy": 0.515625,
+    "Macro Precision": 0.6448757994942734,
+    "Macro Recall": 0.5157544960376103,
+    "Macro F1": 0.5133026695526696,
+    "Weighted F1": 0.5146125033820347,
+    "Latency (ms/frame)": 28.744940757751465,
+    "FPS": 34.78873059532525,
+    "Model Size (MB)": 0.76,
+    "Parameters": 60675
+  },
+  "MobileNetV2 (Transfer Learning)": {
+    "Accuracy": 0.765625,
+    "Macro Precision": 0.7877734877734879,
+    "Macro Recall": 0.7712659770293744,
+    "Macro F1": 0.7705810542067852,
+    "Weighted F1": 0.7662454682054463,
+    "Latency (ms/frame)": 63.00014019012451,
+    "FPS": 15.872980551823494,
+    "Model Size (MB)": 23.4,
+    "Parameters": 2427459
+  }
+}

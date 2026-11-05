@@ -1,0 +1,5 @@
+Stage,Model,Clean Accuracy,Macro F1,Latency (ms),FPS,Model Size (MB)
+Assignment 1 Baseline,SVM Baseline (RBF),93.75%,0.9369,2.77,360.5,45.02
+Assignment 1 Baseline,Custom Deep CNN,51.56%,0.5133,28.74,34.8,0.76
+Assignment 1 Baseline,MobileNetV2 (Transfer Learning),76.56%,0.7706,63.00,15.9,23.40
+Assignment 2 SOTA,SOTA ConvNeXt-Tiny + ArtAug,99.22%,0.9919,43.03,23.2,106.20
