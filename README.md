@@ -1,6 +1,6 @@
-# Assignment 1 and Assignment 2
+# Assignment 2 continuation
 
-Student: Danabek Bosyn
+Students: Dana Bekbosyn, Danila Bussygin
 
 ## Setup
 
